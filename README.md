@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/pallavikalshetti/URLShorteningUsingAPI]
+- Live Site URL: [https://meek-crisp-bd9125.netlify.app/]
 
 ## My process
 - Made a plan for implemetation
