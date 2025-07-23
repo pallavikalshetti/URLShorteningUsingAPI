@@ -59,7 +59,8 @@ async function createShortUrl(inputLongUrl){
         addUrlToLocalStorage(inputLongUrl,outputShortUrl);
     } else {
         const error = await bitlyAPIresponse.json();
-        alert('Error: ' + (error.message || 'Unable to shorten URL'));
+        document.getElementById('inputLongUrl-error').textContent = error.message;
+        //alert('Error: ' + (error.message || 'Unable to shorten URL'));
     }
 }
 

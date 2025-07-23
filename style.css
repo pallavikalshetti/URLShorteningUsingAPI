@@ -31,6 +31,11 @@ main{
     padding: 8px 10px;
     border-radius: 4px;
 }
+.error-message{
+    margin-left: 400px;
+    font-size: small;
+    color: red
+}
 .Shorten.btn{
     background-color: #2acfcf;
     border-radius: 8px;

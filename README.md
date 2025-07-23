@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-While working on this project, I learned how to use the Bitly API to shorten the links and how to send & receive data using fetch. I also learned how to handle errors when something goes wrong with the request. I used the Clipboard API to let users copy shortened links with one click. Which made the app easier to use.I practiced using local storage so that the shortened links stay on the page even after the broser is refreshed.
+While working on this project, I learned how to use the Bitly API to shorten the links and how to send & receive data using fetch. I also learned how to handle errors when something goes wrong with the request. I used the Clipboard API to let users copy shortened links with one click. Which made the app easier to use.I practiced using local storage so that the shortened links stay on the page even after the browser is refreshed.
 I improved my CSS skills using flexbox and grid to make the layout responsive. I also got better at writing clean HTML,learned how to check if the input field is empty and show an error message when needed. I used javascript to create and display new link when a Bitly API shortens a URL.
 This project overall helped me to get better at API, building interactive web pages with modern web technologies.
 
